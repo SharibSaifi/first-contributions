@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 collins kiplangat mutai(Kiplaacollo)
-
+- [Sharib Saifi](https://github.com/SharibSaifi)
 - [Anurag Dutt](https://github.com/duttanurag)
 - [Abhay Chandel](https://github.com/iabhaychandel)
 - [Elia Zonta](https://github.com/eliazonta)
